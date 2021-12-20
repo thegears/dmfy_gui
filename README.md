@@ -2,6 +2,6 @@
 
 Example : 
 
-```python3 dmfy_gui```
+```python3 dmfy_gui.py```
 
 Type video's link and download ! 
